@@ -63,7 +63,8 @@
 - [Virus](https://github.com/thewitcher21/Hacking-Tools/tree/master/Virus)
 - [Vulnerablities](https://github.com/thewitcher21/Hacking-Tools/tree/master/Vulnerabilities)
 - [Worms](https://github.com/thewitcher21/Hacking-Tools/tree/master/Worms)
-- [XSS](https://github.com/thewitcher21/Hacking-Tools/tree/master/XSS)
+- [XSS](https://github.com/TheHackOS/Hacking-Tools/tree/master/XSS)
+- [Log analysis]()
 
 ## Android Malware
 - [2FA](https://github.com/aw-junaid/Hacking-Tools/tree/master/Android/2FA)
